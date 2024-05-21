@@ -42,6 +42,9 @@ class Load extends Phaser.Scene {
             repeat: -1
         });
 
+
+        
+
         this.anims.create({
             key: 'idle',
             defaultTextureKey: "platformer_characters",
